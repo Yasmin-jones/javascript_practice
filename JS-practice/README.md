@@ -1,3 +1,10 @@
+Setting up jasmine - https://github.com/makersacademy/course/blob/main/thermostat_es6/walkthroughs/setting_up_jasmine.md
+
+general rules - 
+    Use let when you know that the value of a variable will change. 
+    Use const for every other variable.
+    Do not use var.
+
 function in JavaScript
 As you become familiar with JavaScript, you will see the function keyword used in ways that appear roughly equivalent to concepts in Ruby.
 
