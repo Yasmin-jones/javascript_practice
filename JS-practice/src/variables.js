@@ -45,7 +45,7 @@ console.log(pi)
 //general rule - always declear variable with const
 //if the value of the variable needs to change - change it to let
 
-it (true) {
+it (true) 
     var a = 'hello';
     let b = 'hi';
     const c = 'ello';
@@ -53,7 +53,7 @@ it (true) {
     console.log(a); //all 3 will print
     console.log(b);
     console.log(c)
-}
+
 
 //when printint outside the block only the var variable will print
 
